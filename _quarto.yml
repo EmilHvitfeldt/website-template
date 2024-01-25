@@ -1,0 +1,19 @@
+project:
+  type: website
+
+website:
+  title: "Home"
+  open-graph: true # https://quarto.org/docs/websites/website-tools.html#open-graph
+  page-footer: "This is a template footer"
+  navbar:
+    right:
+      - text: Home
+        href: index.qmd
+      - text: blog
+        href: blog.qmd
+
+format:
+  html:
+    theme: [cosmo, styles.scss]
+    toc: true
+

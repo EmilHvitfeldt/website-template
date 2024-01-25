@@ -1,0 +1,30 @@
+---
+title: "Alicia"
+subtitle: "🌍 ready for new adventures 🌊"
+about: # https://quarto.org/docs/websites/website-about.html
+  id: hero-heading
+  template: jolla
+  image: profile.png
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com
+    - icon: linkedin
+      text: Linkedin
+      href: https://linkedin.com
+---
+
+::: {#hero-heading}
+:::
+
+![](about.jpg)
+
+A Little bit about me and my life.
+
+## Education
+
+University of XYZ, City | Location | Sept 20XX - June 20XX
+
+## Experience
+
+Workplace | Job title | April 20XX - present
