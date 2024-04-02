@@ -6,3 +6,4 @@ website-template.Rproj
 .httr-oauth
 .DS_Store
 .quarto
+/_site/
