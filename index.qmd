@@ -1,10 +1,10 @@
 ---
 title: "Alicia"
-subtitle: "🌍 ready for new adventures 🌊"
+subtitle: "Data Scientist"
 # `profile.jpg` photo by Jan Tinneberg on https://unsplash.com
 image: profile.jpg
 about: # https://quarto.org/docs/websites/website-about.html
-  template: marquee
+  template: jolla
   links:
     - icon: github
       text: Github
