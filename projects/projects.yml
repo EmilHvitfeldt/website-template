@@ -1,0 +1,32 @@
+- title: Predicting House Prices with Machine Learning
+  path: https://example.com/house-prices
+  # Photo by Breno Assis on Unsplash https://unsplash.com/photos/aerial-photography-of-rural-r3WAWU5Fi5Q 
+  image: images/breno-assis-r3WAWU5Fi5Q-unsplash.jpg
+  description: >
+    This project involves using machine learning algorithms to predict house prices based on
+    various features such as location, size, and amenities. It includes data cleaning,
+    feature engineering, and model selection.
+  categories: [Python, Machine Learning, Data Cleaning]
+  date: 2024-01-01
+
+- title: Customer Segmentation Using Clustering Techniques
+  path: https://example.com/customer-segmentation
+  # Photo by Adrien Delforge on Unsplash  https://unsplash.com/photos/man-in-black-long-sleeve-shirt-and-black-pants-standing-on-shopping-cart-CrHG_ZYn1Dw
+  image: images/adrien-delforge-CrHG_ZYn1Dw-unsplash.jpg
+  description: >
+    This project focuses on segmenting customers into different groups based on their
+    purchasing behavior and demographics. It uses clustering algorithms like K-means and
+    hierarchical clustering to identify distinct customer segments.
+  categories: [R, Machine Learning, Clustering, Statistical Modelling]
+  date: 2024-04-01
+
+- title: Visualizing Global CO2 Emissions
+  path: https://example.com/co2-visualization
+  # Photo by Anne Nygård on Unsplash https://unsplash.com/photos/white-clouds-in-blue-sky-vc-vPgGqAr4
+  image: images/anne-nygard-vc-vPgGqAr4-unsplash.jpg
+  description: >
+    This project involves creating visualizations to show trends in global CO2 emissions
+    over time. It includes data extraction from public databases, data cleaning, and using
+    visualization libraries to create interactive charts and graphs.
+  categories: [R, Data Visualization, Environmental Science]
+  date: 2024-07-01
