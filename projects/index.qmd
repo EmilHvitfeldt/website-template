@@ -1,0 +1,7 @@
+---
+title: Projects
+listing:
+  contents: projects.yml
+  type: grid
+  max-description-length: 250
+---
